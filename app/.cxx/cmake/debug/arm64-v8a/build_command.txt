@@ -1,0 +1,23 @@
+Executable : C:\Users\12709\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\cmake.exe
+arguments : 
+-HC:\AndroidProject\graduation\app
+-DCMAKE_CXX_FLAGS=-std=c++11 -frtti -fexceptions
+-DCMAKE_TOOLCHAIN_FILE=C:\ndk\android-ndk-r16\build\cmake\android.toolchain.cmake
+-DANDROID_ABI=arm64-v8a
+-DANDROID_NDK=C:\ndk\android-ndk-r16
+-DANDROID_PLATFORM=android-21
+-DCMAKE_ANDROID_ARCH_ABI=arm64-v8a
+-DCMAKE_ANDROID_NDK=C:\ndk\android-ndk-r16
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=C:\AndroidProject\graduation\app\build\intermediates\cmake\debug\obj\arm64-v8a
+-DCMAKE_MAKE_PROGRAM=C:\Users\12709\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_SYSTEM_VERSION=21
+-DANDROID_ARM_NEON=TRUE
+-DANDROID_TOOLCHAIN=clang
+-DCMAKE_BUILD_TYPE=Release
+-BC:\AndroidProject\graduation\app\.cxx\cmake\debug\arm64-v8a
+-GNinja
+jvmArgs : 
+
+Build command args:

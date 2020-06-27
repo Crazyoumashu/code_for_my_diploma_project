@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/AndroidProject/Myapplication_new2/app/.cxx/cmake/release/arm64-v8a",
+  "command": "C:\\ndk\\android-ndk-r16\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android --gcc-toolchain=C:/ndk/android-ndk-r16/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=C:/ndk/android-ndk-r16/sysroot  -Dopencv341_EXPORTS -I../../../../src/main/cpp/include -isystem C:/ndk/android-ndk-r16/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem C:/ndk/android-ndk-r16/sources/cxx-stl/gnu-libstdc++/4.9/libs/arm64-v8a/include -isystem C:/ndk/android-ndk-r16/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -isystem C:/ndk/android-ndk-r16/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -std=gnu++11 -fexceptions -frtti -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\opencv341.dir\\src\\main\\cpp\\DetectionBasedTracker_jni.cpp.o -c C:\\AndroidProject\\Myapplication_new2\\app\\src\\main\\cpp\\DetectionBasedTracker_jni.cpp",
+  "file": "C:/AndroidProject/Myapplication_new2/app/src/main/cpp/DetectionBasedTracker_jni.cpp"
+}
+]

@@ -1,0 +1,41 @@
+{
+  "stringTable": {
+    "0": "C:/AndroidProject/Myapplication_new2/app/.cxx/cmake/debug/armeabi-v7a",
+    "1": "--target=armv7-none-linux-androideabi --gcc-toolchain=C:/ndk/android-ndk-r16/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=C:/ndk/android-ndk-r16/sysroot -Dopencv341_EXPORTS -I../../../../src/main/cpp/include -isystem C:/ndk/android-ndk-r16/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem C:/ndk/android-ndk-r16/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi-v7a/include -isystem C:/ndk/android-ndk-r16/sources/cxx-stl/gnu-libstdc++/4.9/include/backward -isystem C:/ndk/android-ndk-r16/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=18 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -mfpu=neon -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -frtti -fexceptions -std=gnu++11 -fexceptions -frtti -Oz -DNDEBUG -fPIC"
+  },
+  "buildFiles": [
+    "C:\\ndk\\android-ndk-r16\\build\\cmake\\android.toolchain.cmake",
+    "C:\\AndroidProject\\Myapplication_new2\\app\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\12709\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\AndroidProject\\Myapplication_new2\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\12709\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"C:\\AndroidProject\\Myapplication_new2\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "opencv341-Release-armeabi-v7a": {
+      "buildCommand": "C:\\Users\\12709\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\AndroidProject\\Myapplication_new2\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" opencv341",
+      "buildType": "debug",
+      "toolchain": "10581156",
+      "abi": "armeabi-v7a",
+      "artifactName": "opencv341",
+      "files": [
+        {
+          "src": "C:\\AndroidProject\\Myapplication_new2\\app\\src\\main\\cpp\\DetectionBasedTracker_jni.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "C:\\AndroidProject\\Myapplication_new2\\app\\build\\intermediates\\cmake\\debug\\obj\\armeabi-v7a\\libopencv341.so"
+    }
+  },
+  "toolchains": {
+    "10581156": {
+      "cppCompilerExecutable": "C:\\ndk\\android-ndk-r16\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

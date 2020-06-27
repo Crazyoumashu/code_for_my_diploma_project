@@ -1,0 +1,428 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 21 min SDK version: arm64-v8a",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "No CMake version was specified in build.gradle. Using default version 3.10.2.",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Trying to locate CMake in local SDK repository.",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "- CMake found in SDK at \u0027C:\\Users\\12709\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\u0027 had version \u00273.10.2\u0027",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "CMake \u00273.6.0\u0027 found in SDK did not match requested version \u00273.10.2\u0027.",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "rebuilding JSON C:\\AndroidProject\\graduation\\app\\.cxx\\cmake\\debug\\arm64-v8a\\android_gradle_build.json due to:",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "- command changed from previous, will remove stale json folder",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "removing stale contents from \u0027C:\\AndroidProject\\graduation\\app\\.cxx\\cmake\\debug\\arm64-v8a\u0027",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "created folder \u0027C:\\AndroidProject\\graduation\\app\\.cxx\\cmake\\debug\\arm64-v8a\u0027",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "executing cmake Executable : C:\\Users\\12709\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe\narguments : \n-HC:\\AndroidProject\\graduation\\app\n-DCMAKE_CXX_FLAGS\u003d-std\u003dc++11 -frtti -fexceptions\n-DCMAKE_TOOLCHAIN_FILE\u003dC:\\ndk\\android-ndk-r16\\build\\cmake\\android.toolchain.cmake\n-DANDROID_ABI\u003darm64-v8a\n-DANDROID_NDK\u003dC:\\ndk\\android-ndk-r16\n-DANDROID_PLATFORM\u003dandroid-21\n-DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a\n-DCMAKE_ANDROID_NDK\u003dC:\\ndk\\android-ndk-r16\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\AndroidProject\\graduation\\app\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a\n-DCMAKE_MAKE_PROGRAM\u003dC:\\Users\\12709\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_SYSTEM_VERSION\u003d21\n-DANDROID_ARM_NEON\u003dTRUE\n-DANDROID_TOOLCHAIN\u003dclang\n-DCMAKE_BUILD_TYPE\u003dRelease\n-BC:\\AndroidProject\\graduation\\app\\.cxx\\cmake\\debug\\arm64-v8a\n-GNinja\njvmArgs : \n\n",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "\n",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "[\u003d\u003d \"CMake Server\" \u003d\u003d[\n",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"supportedProtocolVersions\":[{\"isExperimental\":true,\"major\":1,\"minor\":1}],\"type\":\"hello\"}\n",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "]\u003d\u003d \"CMake Server\" \u003d\u003d]\n",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\n  \"type\": \"handshake\",\n  \"cookie\": \"gradle-cmake-cookie\",\n  \"protocolVersion\": {\n    \"isExperimental\": true,\n    \"major\": 1,\n    \"minor\": 1\n  },\n  \"sourceDirectory\": \"C:/AndroidProject/graduation/app\",\n  \"buildDirectory\": \"C:/AndroidProject/graduation/app/.cxx/cmake/debug/arm64-v8a\",\n  \"generator\": \"Ninja\"\n}\n",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"gradle-cmake-cookie\",\"inReplyTo\":\"handshake\",\"type\":\"reply\"}\n",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\n  \"type\": \"configure\",\n  \"cacheArguments\": [\n    \"\",\n    \"-DCMAKE_CXX_FLAGS\\u003d-std\\u003dc++11 -frtti -fexceptions\",\n    \"-DCMAKE_TOOLCHAIN_FILE\\u003dC:\\\\ndk\\\\android-ndk-r16\\\\build\\\\cmake\\\\android.toolchain.cmake\",\n    \"-DANDROID_ABI\\u003darm64-v8a\",\n    \"-DANDROID_NDK\\u003dC:\\\\ndk\\\\android-ndk-r16\",\n    \"-DANDROID_PLATFORM\\u003dandroid-21\",\n    \"-DCMAKE_ANDROID_ARCH_ABI\\u003darm64-v8a\",\n    \"-DCMAKE_ANDROID_NDK\\u003dC:\\\\ndk\\\\android-ndk-r16\",\n    \"-DCMAKE_EXPORT_COMPILE_COMMANDS\\u003dON\",\n    \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\\u003dC:\\\\AndroidProject\\\\graduation\\\\app\\\\build\\\\intermediates\\\\cmake\\\\debug\\\\obj\\\\arm64-v8a\",\n    \"-DCMAKE_MAKE_PROGRAM\\u003dC:\\\\Users\\\\12709\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.10.2.4988404\\\\bin\\\\ninja.exe\",\n    \"-DCMAKE_SYSTEM_NAME\\u003dAndroid\",\n    \"-DCMAKE_SYSTEM_VERSION\\u003d21\",\n    \"-DANDROID_ARM_NEON\\u003dTRUE\",\n    \"-DANDROID_TOOLCHAIN\\u003dclang\",\n    \"-DCMAKE_BUILD_TYPE\\u003dRelease\"\n  ]\n}\n",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"CMake Warning at C:/ndk/android-ndk-r16/build/cmake/android.toolchain.cmake:63 (message):\\n  Using custom NDK path (ANDROID_NDK is set): C:\\\\ndk\\\\android-ndk-r16\\nCall Stack (most recent call first):\\n  C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineSystem.cmake:94 (include)\\n  CMakeLists.txt\\n\\n\",\"title\":\"Warning\",\"type\":\"message\"}\n",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "WARN",
+    "message": "CMake Warning at C:/ndk/android-ndk-r16/build/cmake/android.toolchain.cmake:63 (message):\r\n  Using custom NDK path (ANDROID_NDK is set): C:\\ndk\\android-ndk-r16\r\nCall Stack (most recent call first):\r\n  C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineSystem.cmake:94 (include)\r\n  CMakeLists.txt\r\n",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working C compiler: C:/ndk/android-ndk-r16/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe\",\"type\":\"message\"}\n",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working C compiler: C:/ndk/android-ndk-r16/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":33,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working C compiler: C:/ndk/android-ndk-r16/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe -- works\",\"type\":\"message\"}\n",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working C compiler: C:/ndk/android-ndk-r16/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe -- works",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compiler ABI info\",\"type\":\"message\"}\n",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compiler ABI info",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":65,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compiler ABI info - done\",\"type\":\"message\"}\n",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compiler ABI info - done",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compile features\",\"type\":\"message\"}\n",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compile features",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":96,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":126,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":155,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compile features - done\",\"type\":\"message\"}\n",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compile features - done",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working CXX compiler: C:/ndk/android-ndk-r16/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe\",\"type\":\"message\"}\n",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working CXX compiler: C:/ndk/android-ndk-r16/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":184,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working CXX compiler: C:/ndk/android-ndk-r16/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -- works\",\"type\":\"message\"}\n",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working CXX compiler: C:/ndk/android-ndk-r16/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -- works",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compiler ABI info\",\"type\":\"message\"}\n",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compiler ABI info",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":211,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compiler ABI info - done\",\"type\":\"message\"}\n",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compiler ABI info - done",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compile features\",\"type\":\"message\"}\n",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compile features",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":237,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":262,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":287,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":311,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compile features - done\",\"type\":\"message\"}\n",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compile features - done",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":1000,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Configuring done\",\"type\":\"message\"}\n",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Configuring done",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"type\":\"reply\"}\n",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"compute\"}\n",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":1000,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"message\":\"Generating done\",\"type\":\"message\"}\n",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Generating done",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"type\":\"reply\"}\n",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"cmakeInputs\"}\n",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"buildFiles\":[{\"isCMake\":true,\"isTemporary\":false,\"sources\":[\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineSystem.cmake\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Determine.cmake\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystem.cmake.in\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystemSpecificInitialize.cmake\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Initialize.cmake\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCCompiler.cmake\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompiler.cmake\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Determine-C.cmake\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android/Determine-Compiler.cmake\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeFindBinUtils.cmake\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-FindBinUtils.cmake\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCCompiler.cmake.in\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCXXCompiler.cmake\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompiler.cmake\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Determine-CXX.cmake\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android/Determine-Compiler.cmake\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeFindBinUtils.cmake\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-FindBinUtils.cmake\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXCompiler.cmake.in\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystemSpecificInformation.cmake\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeGenericSystem.cmake\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android.cmake\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Linux.cmake\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/UnixPaths.cmake\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCInformation.cmake\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C.cmake\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang.cmake\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/GNU.cmake\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang-C.cmake\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang.cmake\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCCompiler.cmake\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCompilerCommon.cmake\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompilerABI.cmake\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeParseImplicitLinkInfo.cmake\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCCompilerABI.c\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompileFeatures.cmake\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Internal/FeatureTesting.cmake\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCCompiler.cmake.in\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXInformation.cmake\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX.cmake\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang.cmake\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang-CXX.cmake\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang.cmake\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCXXCompiler.cmake\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCompilerCommon.cmake\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompilerABI.cmake\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeParseImplicitLinkInfo.cmake\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXCompilerABI.cpp\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompileFeatures.cmake\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Internal/FeatureTesting.cmake\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake\",\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXCompiler.cmake.in\"]},{\"isCMake\":false,\"isTemporary\":false,\"sources\":[\"CMakeLists.txt\",\"C:/ndk/android-ndk-r16/build/cmake/android.toolchain.cmake\",\"C:/ndk/android-ndk-r16/build/cmake/android.toolchain.cmake\"]},{\"isCMake\":false,\"isTemporary\":true,\"sources\":[\".cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeSystem.cmake\",\".cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeCCompiler.cmake\",\".cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake\",\".cxx/cmake/debug/arm64-v8a/CMakeFiles/feature_tests.c\",\".cxx/cmake/debug/arm64-v8a/CMakeFiles/feature_tests.c\",\".cxx/cmake/debug/arm64-v8a/CMakeFiles/feature_tests.c\",\".cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeCCompiler.cmake\",\".cxx/cmake/debug/arm64-v8a/CMakeFiles/feature_tests.cxx\",\".cxx/cmake/debug/arm64-v8a/CMakeFiles/feature_tests.cxx\",\".cxx/cmake/debug/arm64-v8a/CMakeFiles/feature_tests.cxx\",\".cxx/cmake/debug/arm64-v8a/CMakeFiles/feature_tests.cxx\",\".cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake\"]}],\"cmakeRootDirectory\":\"C:/Users/12709/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10\",\"cookie\":\"\",\"inReplyTo\":\"cmakeInputs\",\"sourceDirectory\":\"C:/AndroidProject/graduation/app\",\"type\":\"reply\"}\n",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"codemodel\"}\n",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"configurations\":[{\"name\":\"Release\",\"projects\":[{\"buildDirectory\":\"C:/AndroidProject/graduation/app/.cxx/cmake/debug/arm64-v8a\",\"name\":\"Project\",\"sourceDirectory\":\"C:/AndroidProject/graduation/app\",\"targets\":[{\"artifacts\":[\"C:/AndroidProject/graduation/app/build/intermediates/cmake/debug/obj/arm64-v8a/libopencv341.so\"],\"buildDirectory\":\"C:/AndroidProject/graduation/app/.cxx/cmake/debug/arm64-v8a\",\"fileGroups\":[{\"compileFlags\":\"-isystem C:/ndk/android-ndk-r16/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__\u003d21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -std\u003dc++11 -frtti -fexceptions -std\u003dgnu++11 -fexceptions -frtti -O2 -DNDEBUG  -fPIC  \",\"defines\":[\"opencv341_EXPORTS\"],\"includePath\":[{\"path\":\"C:/AndroidProject/graduation/app/src/main/cpp/include\"},{\"isSystem\":true,\"path\":\"C:/ndk/android-ndk-r16/sources/cxx-stl/gnu-libstdc++/4.9/include\"},{\"isSystem\":true,\"path\":\"C:/ndk/android-ndk-r16/sources/cxx-stl/gnu-libstdc++/4.9/libs/arm64-v8a/include\"},{\"isSystem\":true,\"path\":\"C:/ndk/android-ndk-r16/sources/cxx-stl/gnu-libstdc++/4.9/include/backward\"}],\"isGenerated\":false,\"language\":\"CXX\",\"sources\":[\"src/main/cpp/DetectionBasedTracker_jni.cpp\"]}],\"fullName\":\"libopencv341.so\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a --sysroot C:/ndk/android-ndk-r16/platforms/android-21/arch-arm64 -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Wl,-z,noexecstack -Qunused-arguments -Wl,-z,relro -Wl,-z,now\",\"linkLibraries\":\"-landroid -llog ..\\\\..\\\\..\\\\..\\\\src\\\\main\\\\jniLibs\\\\arm64-v8a\\\\libopencv_java3.so ..\\\\..\\\\..\\\\..\\\\src\\\\main\\\\jniLibs\\\\arm64-v8a\\\\libopencv_core.a ..\\\\..\\\\..\\\\..\\\\src\\\\main\\\\jniLibs\\\\arm64-v8a\\\\libopencv_highgui.a ..\\\\..\\\\..\\\\..\\\\src\\\\main\\\\jniLibs\\\\arm64-v8a\\\\libopencv_imgcodecs.a ..\\\\..\\\\..\\\\..\\\\src\\\\main\\\\jniLibs\\\\arm64-v8a\\\\libopencv_imgproc.a ..\\\\..\\\\..\\\\..\\\\src\\\\main\\\\jniLibs\\\\arm64-v8a\\\\libopencv_objdetect.a -llog -latomic -lm \\\"C:/ndk/android-ndk-r16/sources/cxx-stl/gnu-libstdc++/4.9/libs/arm64-v8a/libgnustl_static.a\\\"\",\"linkerLanguage\":\"CXX\",\"name\":\"opencv341\",\"sourceDirectory\":\"C:/AndroidProject/graduation/app\",\"sysroot\":\"C:/ndk/android-ndk-r16/sysroot\",\"type\":\"SHARED_LIBRARY\"}]}]}],\"cookie\":\"\",\"inReplyTo\":\"codemodel\",\"type\":\"reply\"}\n",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "done executing cmake",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "write build output C:\\AndroidProject\\graduation\\app\\.cxx\\cmake\\debug\\arm64-v8a\\build_output.txt",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "write command file C:\\AndroidProject\\graduation\\app\\.cxx\\cmake\\debug\\arm64-v8a\\build_command.txt",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed without problems",
+    "file": "C:\\AndroidProject\\graduation\\app\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  }
+]

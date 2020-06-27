@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OpenCV4Android-master.iml" filepath="$PROJECT_DIR$/OpenCV4Android-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/graduation.iml" filepath="$PROJECT_DIR$/graduation.iml" group="graduation" />
+      <module fileurl="file://$PROJECT_DIR$/app/graduation-app.iml" filepath="$PROJECT_DIR$/app/graduation-app.iml" group="graduation/app" />
+      <module fileurl="file://$PROJECT_DIR$/openCVLibrary341/graduation-openCVLibrary341.iml" filepath="$PROJECT_DIR$/openCVLibrary341/graduation-openCVLibrary341.iml" group="graduation/openCVLibrary341" />
+      <module fileurl="file://$PROJECT_DIR$/openCVLibrary341/openCVLibrary341.iml" filepath="$PROJECT_DIR$/openCVLibrary341/openCVLibrary341.iml" />
+    </modules>
+  </component>
+</project>
