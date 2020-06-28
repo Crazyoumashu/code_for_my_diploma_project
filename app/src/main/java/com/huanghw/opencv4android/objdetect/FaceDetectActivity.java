@@ -230,8 +230,8 @@ public class FaceDetectActivity extends AppCompatActivity implements CameraBridg
         }
 
         String name="";
+        if(List_Map_Facefeature.size()>0)
         FaceRecognitiion(facesArray);
-
         return mRgba;
     }
 
